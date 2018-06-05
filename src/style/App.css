@@ -1,0 +1,39 @@
+#root {
+  height: 100%;
+}
+#root #App {
+  height: 100%;
+}
+#root #App .ant-layout {
+  height: 100%;
+}
+#root #App .logo {
+  height: 32px;
+  line-height: 32px;
+  text-align: center;
+  background: rgba(255, 255, 255, 0.2);
+  margin: 16px;
+}
+#root #App .ant-header .ant-header-left {
+  float: left;
+}
+#root #App .ant-header .ant-header-right {
+  float: right;
+}
+#root #App .ant-header .trigger {
+  font-size: 18px;
+  line-height: 64px;
+  padding: 0 24px;
+  cursor: pointer;
+  transition: color .3s;
+}
+#root #App .ant-header .trigger:hover {
+  color: #1890ff;
+  cursor: pointer;
+}
+#root #App .ant-content {
+  margin: 16px;
+}
+#root #App .ant-layout-footer {
+  background: #fff;
+}
